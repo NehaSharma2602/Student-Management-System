@@ -6,15 +6,18 @@ A comprehensive web-based application built with Java Servlets, JSP, and Hiberna
 User Management: Add, Update, and Delete Staff and Students.
 View Reports: Access full lists of students and faculty.
 Secure Login: Role-based authentication system.
+
 👩‍🏫 Staff (Faculty) Module
 Attendance System: Mark student attendance by Branch and Semester.
 Quiz Management: Add multiple-choice questions (MCQs) to the question bank.
 Student Profiles: View student details and academic status.
 Profile Management: Update personal details and password.
+
 👨‍🎓 Student Module
 Online Quiz System: Take subject-wise quizzes (Java, Python, etc.) with instant results.
 Performance Tracking: View history of all past quiz attempts and scores.
 Dashboard: View profile details and current semester info.
+
 🛠️ Tech Stack
 Backend: Java (JDK 17+), Servlets, JSP
 ORM Framework: Hibernate 5.x (JPA)
@@ -22,6 +25,7 @@ Database: PostgreSQL
 Frontend: HTML5, CSS3, JavaScript (JSP Standard Tag Library - JSTL)
 Server: Apache Tomcat 9.0
 Build Tool: Maven
+
 ⚙️ Setup & Installation
 Clone the Repository
 
